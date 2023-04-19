@@ -1,1 +1,2 @@
 fichier de teste 2
+integration test
